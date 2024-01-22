@@ -7,6 +7,7 @@
 
     .header-music, .control-body, .playlist, .footer-music {
         width: 100%;
+        height: 100%;
     }
 
 }
